@@ -1,4 +1,4 @@
-### Olá, sou o Ben-Hur Bueno 😊
+## Olá, sou o Ben-Hur Bueno 😊
 
 - 🔭 Estou procurando minha primeira vaga como Programador.
 - 🌱 Atualmente estou estudando na RocketSeat.
