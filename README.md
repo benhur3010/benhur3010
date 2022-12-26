@@ -1,6 +1,6 @@
 ## Olá, sou o Ben-Hur Bueno 😊
 
-- 🔭 Estou procurando minha primeira vaga como Programador.
+- 🔭 Dev na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
 - 🌱 Atualmente estou estudando na RocketSeat.
 - 😄 Pronouns: ele/dele.
 
