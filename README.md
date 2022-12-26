@@ -1,6 +1,6 @@
 ## Olá, sou o Ben-Hur Bueno 😊
 
-- 🔭 Dev na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
+- 🔭 Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
 - 🌱 Atualmente estou estudando na RocketSeat.
 - 😄 Pronouns: ele/dele.
 
