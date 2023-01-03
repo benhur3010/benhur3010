@@ -14,9 +14,9 @@
 
  🏫   Atualmente estudando na RocketSeat
 
- 🚀    Desenvolvedor FullStack na [7 Cliques] <a href="https://www.linkedin.com/company/7-cliques/" target="_blank" <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 🚀    Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
  
- 💻    E-mail: miza-pma@hotmail.com    
+ 💻    E-mail: benhurbueno.adv@gmail.com   
  
 </div>
  
