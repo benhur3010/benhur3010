@@ -11,7 +11,6 @@
  <br>
  
  <div>
-  
  🎼   Um apaixonado por música e games!
    
  🏫   Atualmente estudando na [RocketSeat](https://www.rocketseat.com.br/)
