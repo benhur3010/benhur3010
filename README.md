@@ -4,19 +4,20 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+FullStack+J%C3%BAnior"/> 
 </h2>
 
- <img align="left" margin-right='20' width="300" alt="ben-hur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
- 
- <br>
- <br>
+ <img align="left" width="250" alt="miza" src="https://user-images.githubusercontent.com/88461178/208158345-2df85e01-77cc-479e-897f-b52c84d8f76e.gif"/>
 
- 🎼  Apaixonado por música e games!
- 
- 🏫  Atualmente estudando na RocketSeat.
+<br>
 
- 🚀  Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
+ 🎼    Apaixonada por música 
+
+ 🏫   Estudante de Análise e Desenvolvimento de Sistemas
+
+ 🚀    Disponível para o mercado de trabalho
  
- 💻  E-mail: benhurbueno.adv@gmail.com  
+ 💻    E-mail: miza-pma@hotmail.com    
  
+ 📱    Contato: **(31) 99315-3521**
+
 <br></bh>
  
 <h2 align="center">Linguagens e Ferramentas</h2>
