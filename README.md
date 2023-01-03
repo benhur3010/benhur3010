@@ -5,7 +5,7 @@
 </h2>
 
  <div>
- <img align="left" width="250" alt="benhur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
+ <img align="left" width="300" alt="benhur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
  
  <br>
  
@@ -17,7 +17,6 @@
  
  💻    E-mail: miza-pma@hotmail.com    
  
- 📱    Contato: **(31) 99315-3521**
 </div>
  
 <br></bh>
