@@ -16,7 +16,6 @@
  
  💻    E-mail: benhurbueno.adv@gmail.com    
  
- 📱    Contato: **(45) 99986-7724**
 </div>
 
 <br></bh>
