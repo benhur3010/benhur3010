@@ -6,7 +6,7 @@
 
  <div align='center'>
  
- <img align="left" width="300" border-radius='10px' alt="benhur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
+ <img align="left" width="300" border-radius='10' alt="benhur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
  
  <br>
  
