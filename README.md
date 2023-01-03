@@ -4,14 +4,14 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+FullStack+J%C3%BAnior"/> 
 </h2>
 
- <div display='flex' flex-direction='column'>
+ <div align='center'>
  <img align="left" width="300" alt="benhur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
  
  <br>
  
- 🎼    Apaixonada por música 
+ 🎼    Apaixonad por música e games! 
 
- 🏫   Estudante de Análise e Desenvolvimento de Sistemas
+ 🏫   Atualmente estudando na RocketSeat
 
  🚀    Disponível para o mercado de trabalho
  
