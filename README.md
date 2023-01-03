@@ -10,7 +10,7 @@
  
  <br>
  
-🎼    Um apaixonado por música e games! 
+ 🎼    Um apaixonado por música e games! 
 
  🏫   Atualmente estudando na [RocketSeat](https://www.rocketseat.com.br/)
 
