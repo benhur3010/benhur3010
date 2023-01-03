@@ -7,14 +7,16 @@
 <div display='flex'>
  <img align="left" width="300" alt="ben-hur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
 
-
- 🎼    Apaixonado por música e games!
+ <div>
+  🎼    Apaixonado por música e games!
 
  🏫   Atualmente estudando na RocketSeat.
 
  🚀    Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
  
- 💻    E-mail: benhurbueno.adv@gmail.com    
+ 💻    E-mail: benhurbueno.adv@gmail.com  
+ </div>
+   
  
 </div>
 
