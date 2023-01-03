@@ -10,6 +10,47 @@
 
 <img align="left" width="250" alt="ben-hur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
 
+<br>
+
+ 🎼    Apaixonada por música 
+
+ 🏫   Estudante de Análise e Desenvolvimento de Sistemas
+
+ 🚀    Disponível para o mercado de trabalho
+ 
+ 💻    E-mail: miza-pma@hotmail.com    
+ 
+ 📱    Contato: **(31) 99315-3521**
+
+
+<br></bh>
+ 
+<h2 align="center">Linguagens e Ferramentas</h2>
+  <h3 align="center">Front End</h3>
+  <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/>
+
+<br>
+ 
+ <h3 align="center">Back End</h3>
+  <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/jest/1C6B94"/>           
+  </p>
+
+
+<h3 align="center">Ferramentas</h3>
+  <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/trello/1C6B94"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"/>    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/git/1C6B94"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/github/1C6B94"/>
+  </p>
+
 <div align="center">
   <a href="https://github.com/benhur3010">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=benhur3010&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
