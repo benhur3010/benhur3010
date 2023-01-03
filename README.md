@@ -38,7 +38,7 @@
  <h3 align="center">Back End</h3>
   <p align="center">
      <img align="center" alt="BenHur-Node.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
+     <img align='center' alt='BenHur-TypeScript' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
   </p>
 
 
