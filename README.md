@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+FullStack+J%C3%BAnior"/> 
 </h2>
 
- <div align='center'>
+ <div align="center">
  
  <img align="left" width="300" alt="benhur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
  
@@ -38,14 +38,15 @@
  <h3 align="center">Back End</h3>
   <p align="center">
      <img align="center" alt="BenHur-Node.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-     <img align='center' alt='BenHur-TypeScript' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
+     <img align="center" alt="BenHur-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
   </p>
 
 
 <h3 align="center">Ferramentas</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/trello/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"/>    
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+          
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>    
     <img height="40" width="40" src="https://cdn.simpleicons.org/git/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/github/1C6B94"/>
   </p>
