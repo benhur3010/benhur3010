@@ -30,7 +30,6 @@
   <img align="center" alt="BenHur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="BenHur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BenHur-React.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="BenHur-Node.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="BenHur-Vue.Js"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="BenHur-Quasar"height="30" width="40" src="https://user-images.githubusercontent.com/3314957/140314572-9c26fc82-76b4-44b7-9f16-795da179195c.png" />
 
@@ -38,9 +37,8 @@
  
  <h3 align="center">Back End</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/jest/1C6B94"/>           
+     <img align="center" alt="BenHur-Node.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
   </p>
 
 
