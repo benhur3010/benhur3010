@@ -4,7 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+FullStack+J%C3%BAnior"/> 
 </h2>
 
-<img align="left" width="300" margin-right='100px' alt="ben-hur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
+<div>
+ <img align="left" width="300" alt="ben-hur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
 
 <br>
 
@@ -17,7 +18,7 @@
  💻    E-mail: benhurbueno.adv@gmail.com    
  
  📱    Contato: **(45) 99986-7724**
-
+</div>
 
 <br></bh>
  
