@@ -14,7 +14,7 @@
 
  🏫   Atualmente estudando na RocketSeat
 
- 🚀    Desenvolvedor FullStack na [7 Cliques](target="_blank" https://www.linkedin.com/company/7-cliques/)
+ 🚀    Desenvolvedor FullStack na [7 Cliques]target="_blank"(https://www.linkedin.com/company/7-cliques/)
  
  💻    E-mail: miza-pma@hotmail.com    
  
