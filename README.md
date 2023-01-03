@@ -20,8 +20,6 @@
  
 </div>
  
-<br>
- 
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Front End</h3>
   <p align="center">
