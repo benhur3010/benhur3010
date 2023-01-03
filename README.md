@@ -1,9 +1,5 @@
 ## Olá, sou o Ben-Hur Bueno 😊
 
-- 🔭 Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
-- 🌱 Atualmente estou estudando na RocketSeat.
-- 😄 Pronouns: ele/dele.
-
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+FullStack+J%C3%BAnior"/> 
 </h2>
@@ -12,15 +8,15 @@
 
 <br>
 
- 🎼    Apaixonada por música 
+ 🎼  Apaixonado por música e por games.
 
- 🏫   Estudante de Análise e Desenvolvimento de Sistemas
+ 🏫  Atualmente estudando na RocketSeat.
 
- 🚀    Disponível para o mercado de trabalho
+ 🚀  Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
  
- 💻    E-mail: miza-pma@hotmail.com    
+ 💻  E-mail: benhurbueno.adv@gmail.com  
  
- 📱    Contato: **(31) 99315-3521**
+ 📱   Contato: **(45) 99986-7724**
 
 
 <br></bh>
