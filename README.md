@@ -1,5 +1,8 @@
 ## Olá, sou o Ben-Hur Bueno 😊
 
+Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
+Atualmente estudando na RocketSeat.
+
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+FullStack+J%C3%BAnior"/> 
 </h2>
@@ -8,13 +11,13 @@
 
 <br>
 
- 🎼  Apaixonado por música e por games.
+ 🎼    Apaixonado por música e games!
 
- 🏫  Atualmente estudando na RocketSeat.
+ 🏫   Atualmente estudando na RocketSeat.
 
- 🚀  Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
+ 🚀    Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
  
- 💻  E-mail: benhurbueno.adv@gmail.com  
+ 💻    E-mail: benhurbueno.adv@gmail.com    
  
  📱    Contato: **(45) 99986-7724**
 
