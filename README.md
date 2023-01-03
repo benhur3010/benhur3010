@@ -54,7 +54,7 @@
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benhur3010&show_icons=true&theme=vision-friendly-dark" alt="benhur3010&show_icons=true&theme=vision-friendly-dark" alt="benhur's stats"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizarocha&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhur3010&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
  </di>
  
  <br>
