@@ -10,14 +10,16 @@
  
  <br>
  
- 🎼    Um apaixonado por música e games! 
+ <div>
+ 🎼   Um apaixonado por música e games! 
 
  🏫   Atualmente estudando na [RocketSeat](https://www.rocketseat.com.br/)
 
- 🚀    Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
+ 🚀   Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
  
- 💻    E-mail: benhurbueno.adv@gmail.com 
- 
+ 💻   E-mail: benhurbueno.adv@gmail.com 
+ </div>
+
  <br>
  
 </div>
