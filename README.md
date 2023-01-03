@@ -5,11 +5,12 @@
 </h2>
 
  <div align='center'>
+ 
  <img align="left" width="300" alt="benhur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
  
  <br>
  
- 🎼    Apaixonad por música e games! 
+ 🎼    Apaixonado por música e games! 
 
  🏫   Atualmente estudando na RocketSeat
 
