@@ -44,11 +44,10 @@
 
 <h3 align="center">Ferramentas</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-          
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />    
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>    
-    <img height="40" width="40" src="https://cdn.simpleicons.org/git/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/github/1C6B94"/>
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </p>
 
 <div align="center">
