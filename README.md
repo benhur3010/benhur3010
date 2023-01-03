@@ -4,6 +4,10 @@
 - 🌱 Atualmente estou estudando na RocketSeat.
 - 😄 Pronouns: ele/dele.
 
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+FullStack+Junior"/> 
+</h2>
+
 <div align="center">
   <a href="https://github.com/benhur3010">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=benhur3010&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
