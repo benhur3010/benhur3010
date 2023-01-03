@@ -12,11 +12,8 @@
  
  <div>
  🎼   Um apaixonado por música e games! 
-<br>
  🏫   Atualmente estudando na [RocketSeat](https://www.rocketseat.com.br/)
-
  🚀   Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
- 
  💻   E-mail: benhurbueno.adv@gmail.com 
  </div>
 
