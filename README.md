@@ -55,9 +55,9 @@
   <h2 align="center">Estatísticas</h2>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=benhur3010&show_icons=true&theme=vision-friendly-dark" alt="benhur3010&show_icons=true&theme=vision-friendly-dark" alt="benhur's stats"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=benhur3010&show_icons=true&theme=vision-friendly-dark" alt="benhur3010&show_icons=true&theme=vision-friendly-dark" alt="Benhur's stats"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhur3010&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
- </di>
+ </div>
  
  <br>
  
