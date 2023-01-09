@@ -3,13 +3,6 @@
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+FullStack+J%C3%BAnior"/> 
 </h2>
-
- <div align="center" display='flex' flex-direction='column'>
- 
- <img align="left" width="250" alt="benhur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
- 
- <br>
- <br>
  
  <div>
   
@@ -21,8 +14,6 @@
  </div>
  
  <br>
- 
-</div>
  
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Front End</h3>
