@@ -61,7 +61,7 @@
  
  <br>
  
- ![Snake animation](https://github.com/benhur3010/benhur3010/blob/output/github-contribution-grid-snake.svg)
+ ![Snake gif](https://github.com/benhur3010/benhur3010/blob/output/github-contribution-grid-snake.svg)
 
  ## 🔛 Contatos
  
