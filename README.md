@@ -18,7 +18,7 @@
 
  🚀   Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
   
- 💻   E-mail: benhurbueno.adv@gmail.com 
+ 💻   E-mail: benhurbueno.dev@gmail.com 
  </div>
  
 <h2 align="center">Linguagens e Ferramentas</h2>
