@@ -29,6 +29,7 @@
   <img align="center" alt="BenHur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BenHur-React.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="BenHur-Vue.Js"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="BenHur-Vue.Js"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   <img align="center" alt="BenHur-Quasar"height="30" width="40" src="https://user-images.githubusercontent.com/3314957/140314572-9c26fc82-76b4-44b7-9f16-795da179195c.png" />
   <img align="center" alt="BenHur-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
 
