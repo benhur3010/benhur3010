@@ -12,13 +12,13 @@
  
  <br>
  
- <div align="left">
+ <div align="center">
   
  🎼   Um apaixonado por música e games!
 
  🚀   Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
  
- 🌍   [Portifólio](https://benhurtechwizard.com.br/)
+ 🌍   Site Pessoal: [Portifólio](https://benhurtechwizard.com.br/)
   
  💻   E-mail: benhurbueno.dev@gmail.com
  </div>
