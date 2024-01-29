@@ -12,7 +12,7 @@
  
  <br>
  
- <div align="center">
+ <div align="left">
   
  🎼   Um apaixonado por música e games!
 
