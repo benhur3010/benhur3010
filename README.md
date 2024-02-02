@@ -18,7 +18,7 @@
 
  🚀   Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
  
- 🌍   Site Pessoal / Comercial: [Portifólio](https://benhurtechwizard.com.br/)
+ 🌍   Site Pessoal / Comercial: [Portifólio](https://bhsdigital.com.br/)
   
  💻   E-mail: benhurbueno.dev@gmail.com
  </div>
