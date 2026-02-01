@@ -16,7 +16,7 @@
   
  🎼   Um apaixonado por música e games!
 
- 🚀   Desenvolvedor FullStack na [Aliare](https://www.linkedin.com/company/aliare/)
+ 🚀   Desenvolvedor Frontend na [Aliare](https://www.linkedin.com/company/aliare/)
   
  💻   E-mail: benhurbueno.dev@gmail.com
  </div>
