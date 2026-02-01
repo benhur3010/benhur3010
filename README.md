@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, sou o Ben-Hur! 😊</h1> 
 
 <h2 align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+FullStack+J%C3%BAnior"/> 
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Desenvolvedor+Frontend"/>
 </h2>
 
 <div align="center">
