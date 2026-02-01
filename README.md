@@ -16,9 +16,7 @@
   
  🎼   Um apaixonado por música e games!
 
- 🚀   Desenvolvedor FullStack na [7 Cliques](https://www.linkedin.com/company/7-cliques/)
- 
- 🌍   Site Pessoal / Comercial: [Portifólio](https://bhsdigital.com.br/)
+ 🚀   Desenvolvedor FullStack na [Aliare](https://www.linkedin.com/company/aliare/)
   
  💻   E-mail: benhurbueno.dev@gmail.com
  </div>
