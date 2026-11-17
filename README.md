@@ -19,6 +19,24 @@ Sites e sistemas com **WordPress**, **Elementor** e **WPBakery**, da construçã
 
 ---
 
-### Vamos conversar
+<h3>Minhas Redes Sociais</h3>
 
-[LinkedIn](https://www.linkedin.com/in/ben-hur-bueno/) &nbsp; · &nbsp; [benhurbueno.dev@gmail.com](mailto:benhurbueno.dev@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/ben-hur-bueno/">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn de Ben-Hur Bueno"
+      width="45"
+      height="45"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:benhurbueno.dev@gmail.com">
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      alt="Enviar e-mail para Ben-Hur Bueno"
+      width="45"
+      height="45"
+    />
+  </a>
+</p>
