@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ben-Hur Bueno — Desenvolvedor de software</title>
+  <desc id="desc">Interfaces, dados e mundos interativos. Banner com paisagem geométrica, órbitas e uma onda sonora.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="40" y1="0" x2="1150" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111c25"/>
+      <stop offset=".55" stop-color="#0c171e"/>
+      <stop offset="1" stop-color="#101e27"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop stop-color="#42ddae" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#42ddae" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="edge" x1="770" y1="120" x2="1050" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a1f4cf"/>
+      <stop offset="1" stop-color="#38b8b1"/>
+    </linearGradient>
+
+    <linearGradient id="face" x1="820" y1="180" x2="1040" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#143f3e"/>
+      <stop offset="1" stop-color="#0d232b"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="56" y1="0" x2="1144" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#99eec9"/>
+      <stop offset=".6" stop-color="#99eec9" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#ffbd7a" stop-opacity=".35"/>
+    </linearGradient>
+
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".8" fill="#9bceb9" opacity=".12"/>
+    </pattern>
+
+    <clipPath id="frame">
+      <rect x="1" y="1" width="1198" height="418" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <rect x="620" width="580" height="420" fill="url(#dots)"/>
+    <ellipse cx="932" cy="234" rx="300" ry="250" fill="url(#glow)"/>
+
+    <path d="M705 0V420M1199 326H0" stroke="#547069" stroke-opacity=".12"/>
+    <path d="M56 38H120" stroke="#a1f4cf" stroke-width="3"/>
+
+    <text x="56" y="78" fill="#a0c3b9" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">DESENVOLVEDOR DE SOFTWARE</text>
+
+    <g fill="#f0f5ef" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" letter-spacing="-3">
+      <text x="51" y="175">Ben-Hur</text>
+      <text x="51" y="265">Bueno<tspan fill="#a1f4cf">.</tspan></text>
+    </g>
+
+    <text x="56" y="302" fill="#b2c6c5" font-family="Arial, Helvetica, sans-serif" font-size="23">Interfaces, dados e mundos interativos.</text>
+
+    <path d="M56 346H1144" stroke="url(#line)" stroke-opacity=".5"/>
+
+    <g font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#a0c3b9">
+      <text x="56" y="383">BUSINESS INTELLIGENCE</text>
+      <circle cx="281" cy="378" r="2" fill="#ffbd7a"/>
+      <text x="300" y="383">WEB</text>
+      <circle cx="351" cy="378" r="2" fill="#ffbd7a"/>
+      <text x="370" y="383">GAME DEVELOPMENT</text>
+    </g>
+
+    <circle cx="936" cy="180" r="107" stroke="#ffbd7a" stroke-opacity=".26"/>
+    <circle cx="936" cy="180" r="84" stroke="#ffbd7a" stroke-opacity=".11" stroke-dasharray="2 9"/>
+    <path d="M853 113A107 107 0 0 1 1038 148" stroke="#ffbd7a" stroke-width="2"/>
+    <circle cx="1038" cy="148" r="4" fill="#ffbd7a"/>
+    <circle cx="853" cy="113" r="3" fill="#ffbd7a"/>
+
+    <path d="M762 240L936 140L1110 240L936 340Z" fill="#09181f" stroke="#31544d"/>
+    <path d="M762 224L936 124L1110 224L936 324Z" fill="url(#face)" stroke="url(#edge)" stroke-opacity=".65"/>
+    <path d="M762 224V240M1110 224V240M936 324V340" stroke="#66bca1" stroke-opacity=".5"/>
+
+    <g stroke="#70d9b4" stroke-opacity=".13">
+      <path d="M796.8 204L970.8 304M970.8 144L796.8 244"/>
+      <path d="M831.6 184L1005.6 284M1005.6 164L831.6 264"/>
+      <path d="M866.4 164L1040.4 264M1040.4 184L866.4 284"/>
+      <path d="M901.2 144L1075.2 244M1075.2 204L901.2 304"/>
+    </g>
+
+    <path d="M831 238L907 126L943 181L972 152L1037 240L936 294Z" fill="#123c3a"/>
+    <path d="M831 238L907 126L936 294ZM907 126L943 181L936 294ZM943 181L972 152L936 294ZM972 152L1037 240L936 294Z" fill="#81dfbb" fill-opacity=".025" stroke="url(#edge)" stroke-width="1.2" stroke-linejoin="round"/>
+    <path d="M907 126L880 200L936 294M880 200L943 181L1001 217L936 294M831 238L880 200M972 152L1001 217L1037 240" stroke="#70d9b4" stroke-opacity=".35"/>
+    <path d="M893 147L907 126L919 144" stroke="#d5ffe9" stroke-width="2"/>
+
+    <circle cx="907" cy="126" r="3.5" fill="#c6f9de"/>
+    <circle cx="943" cy="181" r="2.5" fill="#a1f4cf"/>
+    <circle cx="936" cy="294" r="3" fill="#a1f4cf"/>
+
+    <path d="M792 104H806M799 97V111M1080 77H1092M1086 71V83" stroke="#a1f4cf" stroke-opacity=".65"/>
+    <rect x="1095" y="292" width="4" height="4" fill="#ffbd7a" opacity=".8"/>
+    <rect x="777" y="286" width="3" height="3" fill="#a1f4cf" opacity=".5"/>
+    <path d="M743 65H758M750.5 57.5V72.5" stroke="#ffbd7a" stroke-opacity=".4"/>
+
+    <g stroke="#8ecbb5" stroke-width="2" stroke-linecap="round" opacity=".8">
+      <path d="M1044 375.5V380.5"/>
+      <path d="M1051 372.5V383.5"/>
+      <path d="M1058 374.5V381.5"/>
+      <path d="M1065 369.5V386.5"/>
+      <path d="M1072 365.5V390.5"/>
+      <path d="M1079 372V384"/>
+      <path d="M1086 375V381"/>
+      <path d="M1093 369.5V386.5"/>
+      <path d="M1100 373.5V382.5"/>
+      <path d="M1107 375.5V380.5"/>
+      <path d="M1114 371.5V384.5"/>
+      <path d="M1121 368V388"/>
+      <path d="M1128 374V382"/>
+      <path d="M1135 376V380"/>
+    </g>
+  </g>
+
+  <rect x=".75" y=".75" width="1198.5" height="418.5" rx="20" stroke="#39534c" stroke-opacity=".6" stroke-width="1.5"/>
+</svg>
