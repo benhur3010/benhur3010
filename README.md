@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Ben-Hur Bueno — Desenvolvedor de software. Interfaces, dados e mundos interativos." />
+  <img src="./.github/header.svg" width="100%" alt="Ben-Hur Bueno — Desenvolvedor de software. Interfaces, dados e mundos interativos." />
 </p>
 
 Desenvolvo interfaces para uma plataforma de **Business Intelligence na [Aliare](https://www.linkedin.com/company/aliare/)**, com foco no frontend e contribuições no backend. Também trabalho com **desenvolvimento de jogos** e com a entrega de **sites e sistemas em WordPress**.
