@@ -48,13 +48,6 @@
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </p>
-  
-  <h2 align="center">Estatísticas</h2>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=benhur3010&show_icons=true&theme=vision-friendly-dark" alt="benhur3010&show_icons=true&theme=vision-friendly-dark" alt="Benhur's stats"/> 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=benhur3010&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
- </div>
  
  <br>
 
