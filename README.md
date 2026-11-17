@@ -1,59 +1,24 @@
-<h1 align="center"> Olá, sou o Ben-Hur! 😊</h1> 
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Ben-Hur Bueno — Desenvolvedor de software. Interfaces, dados e mundos interativos." />
+</p>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Desenvolvedor+Frontend"/>
-</h2>
+Desenvolvo interfaces para uma plataforma de **Business Intelligence na [Aliare](https://www.linkedin.com/company/aliare/)**, com foco no frontend e contribuições no backend. Também trabalho com **desenvolvimento de jogos** e com a entrega de **sites e sistemas em WordPress**.
 
-<div align="center">
- 
-<img align="center" width="250" alt="benhur" src="https://user-images.githubusercontent.com/105081745/210375612-fb861f03-c736-418a-a84c-649053b10cbe.gif"/>
- 
- </div>
- 
- <br>
- 
- <div align="center">
-  
- 🎼   Um apaixonado por música e games!
+Gosto de unir a lógica do software à criação de experiências visuais e interativas. Música e games fazem parte das minhas referências criativas.
 
- 🚀   Desenvolvedor Frontend na [Aliare](https://www.linkedin.com/company/aliare/)
-  
- 💻   E-mail: benhurbueno.dev@gmail.com
- </div>
- 
-<h2 align="center">Linguagens e Ferramentas</h2>
-  <h3 align="center">Front End</h3>
-  <p align="center">
-    <img align="center" alt="BenHur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="BenHur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="BenHur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="BenHur-React.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="BenHur-Vue.Js"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="BenHur-Vue.Js"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-  <img align="center" alt="BenHur-Quasar"height="30" width="40" src="https://user-images.githubusercontent.com/3314957/140314572-9c26fc82-76b4-44b7-9f16-795da179195c.png" />
-  <img align="center" alt="BenHur-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
+### O que estou construindo
 
-<br>
- 
- <h3 align="center">Back End</h3>
-  <p align="center">
-     <img align="center" alt="BenHur-Node.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />       
-  </p>
+**01 &nbsp; / &nbsp; Interfaces para dados**  
+Frontend de uma plataforma de BI com **Vue** e **DevExtreme**, além de contribuições no backend com **C#**.
 
+**02 &nbsp; / &nbsp; Mundos interativos**  
+Desenvolvimento de jogos com **Godot** e **NestJS**, com **Meshy**, **Tripo** e **ElevenLabs** no processo de criação de assets e áudio.
 
-<h3 align="center">Ferramentas</h3>
-  <p align="center">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />    
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>    
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </p>
- 
- <br>
+**03 &nbsp; / &nbsp; Presença e soluções web**  
+Sites e sistemas com **WordPress**, **Elementor** e **WPBakery**, da construção das páginas à entrega.
 
- <h1 align="center"> 🔛 Contatos </h1>
- 
-<div align="center">
- <a href="https://instagram.com/buenobenhur" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/ben-hur-bueno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+---
+
+### Vamos conversar
+
+[LinkedIn](https://www.linkedin.com/in/ben-hur-bueno/) &nbsp; · &nbsp; [benhurbueno.dev@gmail.com](mailto:benhurbueno.dev@gmail.com)
