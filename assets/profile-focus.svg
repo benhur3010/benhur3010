@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="300" viewBox="0 0 1180 300" fill="none" role="img" aria-labelledby="title"><title id="title">Business Intelligence: Vue, DevExtreme e C#. Desenvolvimento de jogos: Godot e NestJS. Web: WordPress, Elementor e WPBakery.</title><defs>
+<linearGradient id="panel" x1="0" y1="0" x2="380" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#181429"/><stop offset="1" stop-color="#10121f"/></linearGradient>
+<radialGradient id="cyan"><stop stop-color="#37d4ed" stop-opacity=".19"/><stop offset="1" stop-color="#37d4ed" stop-opacity="0"/></radialGradient>
+<radialGradient id="violet"><stop stop-color="#aa71ff" stop-opacity=".23"/><stop offset="1" stop-color="#aa71ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="peach"><stop stop-color="#f8ad8a" stop-opacity=".16"/><stop offset="1" stop-color="#f8ad8a" stop-opacity="0"/></radialGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#66eff2"/><stop offset="1" stop-color="#255c86" stop-opacity=".4"/></linearGradient>
+<linearGradient id="portal" x1="100" y1="50" x2="290" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#b59aff"/><stop offset="1" stop-color="#7051c4"/></linearGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#302039"/><stop offset="1" stop-color="#15182b"/></linearGradient>
+<style>
+.t{font-family:Arial,Helvetica,sans-serif}.soft{fill:#b4b0cb}.wave{stroke-dasharray:6 26;animation:flow 9s linear infinite}.star{animation:glimmer 5s ease-in-out infinite alternate}@keyframes flow{to{stroke-dashoffset:-128}}@keyframes glimmer{to{opacity:.35}}@media(prefers-reduced-motion:reduce){.wave,.star{animation:none}}
+</style>
+</defs><g transform="translate(0 0)"><rect x=".75" y=".75" width="378.5" height="298.5" rx="20" fill="url(#panel)" stroke="#353047" stroke-width="1.5"/>
+<ellipse cx="190" cy="85" rx="175" ry="130" fill="url(#cyan)"/>
+<path d="M24 1H110" stroke="#72e6ec" stroke-width="2" stroke-opacity=".8"/>
+<text class="t" x="26" y="33" fill="#72e6ec" font-size="14" font-weight="600" letter-spacing="2">01 / DATA</text>
+<g stroke="#61c4dc" stroke-opacity=".16"><path d="M70 142L184 76L308 148L194 214Z"/><path d="M100 159L214 93M131 177L245 111M162 195L276 129M99 125L223 197M129 108L253 180M159 91L283 163"/></g>
+<g stroke="#6eebed" stroke-width="1.2" stroke-linejoin="round">
+<path d="M100 145V115L127 100L154 115V145L127 160Z" fill="#1a4258"/>
+<path d="M100 115L127 130L154 115M127 130V160"/>
+<path d="M157 157V88L184 73L211 88V157L184 172Z" fill="#205468"/>
+<path d="M157 88L184 103L211 88M184 103V172"/>
+<path d="M214 171V64L241 49L268 64V171L241 186Z" fill="#276b7a"/>
+<path d="M214 64L241 79L268 64M241 79V186"/>
+</g>
+<path d="M77 98L137 76L195 92L265 40L297 49" stroke="#b5f5fc" stroke-width="2" fill="none"/>
+<path class="wave" d="M77 98L137 76L195 92L265 40L297 49" stroke="#fff" stroke-width="3" fill="none"/>
+<g fill="#b5f5fc"><circle cx="77" cy="98" r="3"/><circle cx="137" cy="76" r="3"/><circle cx="195" cy="92" r="3"/><circle cx="265" cy="40" r="3"/></g>
+<text class="t" x="26" y="227" fill="#f0edf9" font-size="28" font-weight="700" letter-spacing="-.7">Business Intelligence</text>
+<text class="t soft" x="26" y="251" font-size="16">Interfaces para explorar dados.</text>
+<text class="t" x="26" y="281" fill="#72e6ec" font-size="18" font-weight="600">Vue · DevExtreme · C#</text>
+</g><g transform="translate(400 0)"><rect x=".75" y=".75" width="378.5" height="298.5" rx="20" fill="url(#panel)" stroke="#353047" stroke-width="1.5"/>
+<ellipse cx="190" cy="85" rx="175" ry="130" fill="url(#violet)"/>
+<path d="M24 1H110" stroke="#bda0ff" stroke-width="2" stroke-opacity=".8"/>
+<text class="t" x="26" y="33" fill="#bda0ff" font-size="14" font-weight="600" letter-spacing="2">02 / PLAY</text>
+<ellipse cx="202" cy="179" rx="99" ry="15" fill="#aa71ff" opacity=".07"/>
+<path d="M92 155L193 96L291 153L190 212Z" fill="#19172f" stroke="#766397"/>
+<path d="M103 149L194 96L279 145L188 198Z" fill="#332445" stroke="#bc9bdf" stroke-opacity=".5"/>
+<path d="M122 148L161 101L180 131L207 101L259 153L189 184Z" fill="#49315d" stroke="#9071bb"/>
+<path d="M161 101L189 184L207 101M122 148L180 131L259 153" stroke="#a98ad2" stroke-opacity=".5"/>
+<path d="M157 135V75A42 42 0 0 1 241 75V135L226 144V77A27 27 0 0 0 172 77V144Z" fill="#55427a" stroke="url(#portal)" stroke-width="2"/>
+<path d="M169 136V77A30 30 0 0 1 229 77V136" stroke="#c0a7ff" stroke-width="2" fill="none"/>
+<path d="M174 134V80A25 25 0 0 1 224 80V134Z" fill="#a17aff" opacity=".1"/>
+<path d="M187 110L197 79L204 101L214 95L203 126L197 107Z" fill="#e2d5ff"/>
+<g class="star" fill="#d6bfff"><rect x="112" y="58" width="4" height="4"/><rect x="277" y="82" width="4" height="4"/><rect x="251" y="41" width="3" height="3"/><rect x="139" y="82" width="3" height="3"/></g>
+<path d="M286 113H298M292 107V119M116 104H126M121 99V109" stroke="#b49ee2" stroke-width="1.5"/>
+<text class="t" x="26" y="227" fill="#f0edf9" font-size="28" font-weight="700" letter-spacing="-.7">Game Development</text>
+<text class="t soft" x="26" y="251" font-size="16">Código para criar mundos.</text>
+<text class="t" x="26" y="281" fill="#bda0ff" font-size="18" font-weight="600">Godot · NestJS</text>
+</g><g transform="translate(800 0)"><rect x=".75" y=".75" width="378.5" height="298.5" rx="20" fill="url(#panel)" stroke="#353047" stroke-width="1.5"/>
+<ellipse cx="190" cy="85" rx="175" ry="130" fill="url(#peach)"/>
+<path d="M24 1H110" stroke="#f5bb9f" stroke-width="2" stroke-opacity=".8"/>
+<text class="t" x="26" y="33" fill="#f5bb9f" font-size="14" font-weight="600" letter-spacing="2">03 / BUILD</text>
+<rect x="93" y="60" width="204" height="125" rx="9" fill="#1b1929" stroke="#655060"/>
+<rect x="81" y="48" width="204" height="125" rx="9" fill="url(#screen)" stroke="#b07e83"/>
+<rect x="69" y="36" width="204" height="125" rx="9" fill="#1d1b2e" stroke="#e9b196" stroke-width="1.5"/>
+<path d="M69 59H273" stroke="#79575e"/>
+<g fill="#e8b69c"><circle cx="82" cy="48" r="2.5"/><circle cx="92" cy="48" r="2.5" opacity=".65"/><circle cx="102" cy="48" r="2.5" opacity=".35"/></g>
+<rect x="83" y="74" width="104" height="72" rx="4" fill="#3d2e40"/>
+<path d="M92 123L116 97L136 116L153 98L177 126Z" fill="#a47c9e"/>
+<circle cx="159" cy="91" r="7" fill="#f6bca7"/>
+<rect x="201" y="76" width="58" height="5" rx="2.5" fill="#e8baa4"/>
+<rect x="201" y="88" width="46" height="4" rx="2" fill="#8d788f"/>
+<rect x="201" y="98" width="53" height="4" rx="2" fill="#8d788f"/>
+<rect x="201" y="115" width="46" height="16" rx="4" fill="#b78383"/>
+<path d="M246 136L256 165L262 153L276 149Z" fill="#fbe1cf" stroke="#191725" stroke-width="2"/>
+<path d="M92 182H155M107 193H173" stroke="#e2b097" stroke-opacity=".3"/>
+<text class="t" x="26" y="227" fill="#f0edf9" font-size="28" font-weight="700" letter-spacing="-.7">Web &amp; WordPress</text>
+<text class="t soft" x="26" y="251" font-size="16">Sites e sistemas, da ideia à entrega.</text>
+<text class="t" x="26" y="281" fill="#f5bb9f" font-size="16" font-weight="600">WordPress · Elementor · WPBakery</text>
+</g></svg>
