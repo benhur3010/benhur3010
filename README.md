@@ -22,7 +22,7 @@ Sites e sistemas com **WordPress**, **Elementor** e **WPBakery**, da construçã
 <h3>Minhas Redes Sociais</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/ben-hur-bueno/">
+  <a href="https://www.linkedin.com/in/ben-hur-bueno/" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
       alt="LinkedIn de Ben-Hur Bueno"
@@ -31,7 +31,7 @@ Sites e sistemas com **WordPress**, **Elementor** e **WPBakery**, da construçã
     />
   </a>
   &nbsp;
-  <a href="mailto:benhurbueno.dev@gmail.com">
+  <a href="mailto:benhurbueno.dev@gmail.com" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=gmail"
       alt="Enviar e-mail para Ben-Hur Bueno"
