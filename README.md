@@ -1,42 +1,35 @@
 <p align="center">
-  <img src="./.github/header.svg" width="100%" alt="Ben-Hur Bueno — Desenvolvedor de software. Interfaces, dados e mundos interativos." />
+  <img src="./assets/profile-hero.webp" width="100%" alt="Ben-Hur Bueno — Código, dados e mundos interativos. Um estúdio que conecta Business Intelligence, desenvolvimento de jogos e música." />
 </p>
 
-Desenvolvo interfaces para uma plataforma de **Business Intelligence na [Aliare](https://www.linkedin.com/company/aliare/)**, com foco no frontend e contribuições no backend. Também trabalho com **desenvolvimento de jogos** e com a entrega de **sites e sistemas em WordPress**.
+<p align="center">
+  <strong>Desenvolvimento de software · Business Intelligence · Games</strong>
+</p>
 
-Gosto de unir a lógica do software à criação de experiências visuais e interativas. Música e games fazem parte das minhas referências criativas.
+<p align="center">
+  Na <a href="https://www.linkedin.com/company/aliare/"><strong>Aliare</strong></a>, desenvolvo o frontend de uma plataforma de <strong>Business Intelligence</strong> e contribuo no backend.<br />
+  Também desenvolvo <strong>jogos</strong> e entrego <strong>sites e sistemas em WordPress</strong>.
+</p>
 
-### O que estou construindo
+<br />
 
-**01 &nbsp; / &nbsp; Interfaces para dados**  
-Frontend de uma plataforma de BI com **Vue** e **DevExtreme**, além de contribuições no backend com **C#**.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-focus-mobile.svg" />
+  <img src="./assets/profile-focus.svg" width="100%" alt="Minhas frentes de atuação: BI com Vue, DevExtreme e C#; jogos com Godot e NestJS; sites e sistemas com WordPress, Elementor e WPBakery." />
+</picture>
 
-**02 &nbsp; / &nbsp; Mundos interativos**  
-Desenvolvimento de jogos com **Godot** e **NestJS**, com **Meshy**, **Tripo** e **ElevenLabs** no processo de criação de assets e áudio.
+<p align="center">
+  <sub>Meshy · Tripo · ElevenLabs no processo de criação de assets e áudio.</sub>
+</p>
 
-**03 &nbsp; / &nbsp; Presença e soluções web**  
-Sites e sistemas com **WordPress**, **Elementor** e **WPBakery**, da construção das páginas à entrega.
+<p align="center">
+  Música e games também fazem parte da minha forma de criar.
+</p>
 
----
+<h3 align="center">Minhas Redes Sociais</h3>
 
-<h3>Minhas Redes Sociais</h3>
-
-<p>
-  <a href="https://www.linkedin.com/in/ben-hur-bueno/">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      alt="LinkedIn de Ben-Hur Bueno"
-      width="45"
-      height="45"
-    />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ben-hur-bueno/"><img src="./assets/linkedin.svg" width="164" height="54" alt="LinkedIn de Ben-Hur Bueno" /></a>
   &nbsp;
-  <a href="mailto:benhurbueno.dev@gmail.com">
-    <img
-      src="https://skillicons.dev/icons?i=gmail"
-      alt="Enviar e-mail para Ben-Hur Bueno"
-      width="45"
-      height="45"
-    />
-  </a>
+  <a href="mailto:benhurbueno.dev@gmail.com"><img src="./assets/email.svg" width="164" height="54" alt="Enviar e-mail para benhurbueno.dev@gmail.com" /></a>
 </p>
